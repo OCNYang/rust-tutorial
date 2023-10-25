@@ -39,7 +39,7 @@ Elixir 作为一门小众语言，却有着其独特的魅力。
 * [Elixir 官方指南1（完整版）（中文-机译）](https://github.com/OCNYang/elixir-tutorial/blob/main/Elixir%20官方指南1%20(完整版).pdf)
 * [Elixir 官方指南2（中文-机译）](https://github.com/OCNYang/elixir-tutorial/blob/main/Elixir%20官方指南2：MIX、OTP、元编程.pdf)
 * [Elixir 程序设计语言（中文）](https://github.com/OCNYang/elixir-tutorial/blob/main/Elixir%20程序设计语言.pdf)
-* [Erlang 程序设计(第2版)（中文）.pdf](https://github.com/OCNYang/elixir-tutorial/blob/main/Erlang%20程序设计(第2版).pdf)
+* [Erlang 程序设计(第2版)（中文）](https://github.com/OCNYang/elixir-tutorial/blob/main/Erlang%20程序设计(第2版).pdf)
 * [Elixir in Action, Third Edition（英文）](https://github.com/OCNYang/elixir-tutorial/blob/main/Elixir%20in%20Action%2C%20Third%20Edition.pdf)
 
 ## 三：思维导图
