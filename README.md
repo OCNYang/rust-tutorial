@@ -1,10 +1,11 @@
+
 # elixir-tutorial
 Elixir 作为一门小众语言，却有着其独特的魅力。
 在国内因不太流行，中文教程十分匮乏，这里收集一些 Elixir 的中文教程。
 
 ## 一： Elixir 官方指南（机译）
 
-[观看 PDF](./Elixir 官方指南)
+[下载 PDF](https://github.com/OCNYang/elixir-tutorial/tree/main/Elixir 官方指南)
 
 **目录**
 
@@ -32,3 +33,18 @@ Elixir 作为一门小众语言，却有着其独特的魅力。
 22. 调试
 23. 类型规格和行为
 24. 下一步去哪里
+
+## 二：书籍教程
+
+* [Elixir 官方指南1（完整版）（中文-机译）](https://github.com/OCNYang/elixir-tutorial/blob/main/Elixir 官方指南1 (完整版).pdf)
+* [Elixir 官方指南2（中文-机译）](https://github.com/OCNYang/elixir-tutorial/blob/main/Elixir 官方指南2：MIX、OTP、元编程.pdf)
+* [Elixir 程序设计语言（中文）](https://github.com/OCNYang/elixir-tutorial/blob/main/Elixir 程序设计语言.pdf)
+* [Erlang 程序设计(第2版)（中文）.pdf](https://github.com/OCNYang/elixir-tutorial/blob/main/Erlang 程序设计(第2版).pdf)
+* [Elixir in Action, Third Edition（英文）](https://github.com/OCNYang/elixir-tutorial/blob/main/Elixir in Action, Third Edition.pdf)
+
+## 三：思维导图
+
+这里是自己在学习时总结的思维导图，如果嫌看书繁琐的，可以快速入门[[PDF 下载](https://github.com/OCNYang/elixir-tutorial/blob/main/Elixir 基础知识 思维导图.pdf)]：
+![Elixir 基础](https://cdn.jsdelivr.net/gh/ocnyang/elixir-tutorial@main/github/res/Elixir 基础知识 思维导图.jpg)
+
+![enum 函数](https://cdn.jsdelivr.net/gh/ocnyang/elixir-tutorial@main/github/res/elixir_enum.png)
