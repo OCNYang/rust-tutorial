@@ -1,6 +1,6 @@
 # rust-tutorial
 
-<h1 align="center"><img width="150px" src="https://cdn.jsdelivr.net/gh/ocnyang/rust-tutorial@rust/logo.svg" /></h1>
+<h1 align="center"><img width="315px" src="https://cdn.jsdelivr.net/gh/ocnyang/rust-tutorial@rust/logo.png" /></h1>
 
 ## <a name="table-of-contents"></a> 简介
 
